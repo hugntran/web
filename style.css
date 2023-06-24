@@ -1,5 +1,4 @@
 .container_1{
-  margin-left: 100;
   font-family: Arial, Helvetica, sans-serif;
   width: 100%; /*Bao phủ toàn bộ màn hình*/
   height: auto; /*height của container_1 sẽ cao bằng nội dung bên trong thẻ container_1*/
@@ -108,8 +107,8 @@ margin-top: -12;
 .noibat2{padding-left: 10;}
 .tieude{
   width: 100%;
-  margin-left: 100;
 }
+.tieude h2{padding-left: 100;}
 .noidung{
   display: grid;
   grid-template-columns: 50% 50%;
